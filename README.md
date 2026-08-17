@@ -160,7 +160,7 @@ The application displays:
 
 ---
 
-##  Model
+  Model
 
 The trained model is built using **TensorFlow/Keras** and loaded during application startup. It classifies uploaded IQ signal samples into one of the supported modulation schemes before displaying the predicted class and confidence score. :contentReference[oaicite:0]{index=0}
 
