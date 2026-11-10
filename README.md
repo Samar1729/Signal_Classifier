@@ -192,9 +192,7 @@ The Streamlit interface allows users to:
 
 ##  Author
 
-**Shashi Bhushan Raj**
-
-B.Tech Electronics & Communication Engineering
+**SAMAR ANAND**
 
 **Interests**
 
